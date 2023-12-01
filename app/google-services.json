@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "877148433846",
+    "project_id": "photosharingapp-6985b",
+    "storage_bucket": "photosharingapp-6985b.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:877148433846:android:1859720ee4b5204c602517",
+        "android_client_info": {
+          "package_name": "com.kabekus.photosharingapp"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "877148433846-9nsdfj87kt21maechenfdbpe1ubmsull.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyATFc9KuioQEjsh0OHIRcTlwhplwx5Hz7I"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "877148433846-9nsdfj87kt21maechenfdbpe1ubmsull.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
