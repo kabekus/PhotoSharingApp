@@ -1,4 +1,4 @@
-package com.kabekus.photosharingapp
+package com.kabekus.photosharingapp.view
 
 import android.Manifest
 import android.content.Intent
